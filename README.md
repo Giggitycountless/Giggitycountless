@@ -60,12 +60,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giggitycountless&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Giggitycountless&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Giggitycountless&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giggitycountless&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giggitycountless&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 </p>
 
 ---

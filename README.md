@@ -9,7 +9,7 @@
 ### 👋 About Me
 
 - 🎓 Computer Science student at **University of Waikato**, Hamilton, New Zealand
-- 🔬 **Binary reverse engineering** — cracking eFootball's Player.bin (62 skills, 6 AI styles, Form/Injury encoding)
+- 🔬 **Binary reverse engineering** — fully cracked eFootball's Player.bin structure (62 skills, 6 AI styles, Form/Injury, all club IDs)
 - 🕸️ **Web scraping at scale** — TLS impersonation, anti-rate-limiting, extracted 37K+ player cards
 - 🤖 Building autonomous coding agents that run 24/7 on cloud servers
 - 🎮 Data analytics for **Counter-Strike 2**, **League of Legends**, and **eFootball**

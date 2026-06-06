@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jiahao.uk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=CS+Student+@+University+of+Waikato;Building+with+Rust%2C+Python+%26+AI+Agents;Deploying+to+Cloud%2C+Debugging+at+3AM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=CS+Student+@+University+of+Waikato;Building+with+Rust%2C+Python+%26+AI+Agents;Reverse+Engineering+Game+Binaries;Deploying+to+Cloud%2C+Debugging+at+3AM" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,9 +9,10 @@
 ### 👋 About Me
 
 - 🎓 Computer Science student at **University of Waikato**, Hamilton, New Zealand
-- 🔭 Currently working on **database apps**, **AI agent workflows**, and **desktop tools**
+- 🔬 **Binary reverse engineering** — cracking eFootball's Player.bin (62 skills, 6 AI styles, Form/Injury encoding)
+- 🕸️ **Web scraping at scale** — TLS impersonation, anti-rate-limiting, extracted 37K+ player cards
 - 🤖 Building autonomous coding agents that run 24/7 on cloud servers
-- 🎮 Data analytics for **Counter-Strike 2** and **League of Legends**
+- 🎮 Data analytics for **Counter-Strike 2**, **League of Legends**, and **eFootball**
 - 📝 Writing about AI, dev workflows, and tech experiments at [jiahao.uk](https://jiahao.uk)
 
 ---
@@ -20,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,typescript,rust,react,fastapi,flask,tailwind,docker,aws,linux,git,github,postgres,mongodb,redis,sqlite,vscode,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,python,typescript,rust,react,fastapi,flask,tailwind,docker,aws,cloudflare,linux,bash,git,github,githubactions,postgres,mongodb,redis,sqlite,vscode,figma,selenium,neovim&perline=12" />
   </a>
 </p>
 
@@ -31,6 +32,18 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>⚽ eFootball Player.bin Editor</h3>
+      <p>逆向工程 eFootball 的 14.7MB 二进制文件，破解 26 项能力、62 个技能 bit、6 个 AI 风格、Form/Injury 编码。提供三个 GUI 编辑器（TKinter），一键 FF 全技能。</p>
+      <p><code>Python</code> <code>Binary Reverse Engineering</code> <code>TKinter</code> <code>CSV</code></p>
+    </td>
+    <td width="50%">
+      <h3>🕸️ PESDB Large-Scale Scraper</h3>
+      <p>对抗 TLS 指纹检测 + IP 限流的爬虫系统。curl_cffi 伪装 Chrome，Perlin 噪声限速，全局熔断器。发现 Cookie 注入将请求量压缩 97%（38K→1.1K）。</p>
+      <p><code>Python</code> <code>curl_cffi</code> <code>Anti-Detection</code> <code>BeautifulSoup</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🎮 CS2 Tournament Database</h3>
       <p>Counter-Strike 2 职业比赛数据分析系统。Oracle + MongoDB 双数据库架构，涵盖选手、教练、地图、比赛等完整数据模型。</p>
       <p><code>Java</code> <code>Oracle SQL</code> <code>MongoDB</code></p>
@@ -39,18 +52,6 @@
       <h3>🖥 LOL Desktop Assistant</h3>
       <p>基于 Tauri 2 + React + Rust 的英雄联盟桌面助手，集成 League Client 本地只读数据，关注安全边界和前端错误处理。</p>
       <p><code>Rust</code> <code>Tauri</code> <code>React</code> <code>TypeScript</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🤖 Sakura AI Reviewer</h3>
-      <p>基于 AI 的智能 GitHub PR 代码审查与 Issue 分析机器人，具备主动探索代码库的能力。</p>
-      <p><code>Python</code> <code>GitHub API</code> <code>AI</code></p>
-    </td>
-    <td width="50%">
-      <h3>📸 FocusPomodoro AI</h3>
-      <p>基于 FastAPI + OpenCV + MediaPipe 的专注度分析工具，用摄像头检测人脸状态并结合番茄钟工作流。</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>OpenCV</code> <code>React</code></p>
     </td>
   </tr>
 </table>

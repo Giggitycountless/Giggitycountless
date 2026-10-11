@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jiahao.uk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=CS+Student+%40+University+of+Waikato;Building+with+Rust%2C+Python+%26+AI+Agents;Reverse+Engineering+Game+Binaries;Deploying+to+Cloud%2C+Debugging+at+3AM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=CS+Student+%40+University+of+Waikato;Desktop+apps+in+Rust%2C+Python+%26+TypeScript;AI+agents+%26+data+tools" alt="Typing SVG" />
   </a>
 </p>
 
@@ -8,12 +8,28 @@
 
 ### About Me
 
-- CS student at **University of Waikato**, Hamilton, New Zealand
-- **Binary reverse engineering** — fully cracked eFootball Player.bin (62 skills, 6 AI styles, Form/Injury, all club IDs)
-- **Web scraping at scale** — TLS impersonation, anti-rate-limiting, extracted 37K+ player cards
-- Building autonomous coding agents that run 24/7 on cloud servers
-- Data analytics for **CS2**, **League of Legends**, and **eFootball**
-- Writing about AI, dev workflows, and tech at [jiahao.uk](https://jiahao.uk)
+- Computer Science undergraduate at the **University of Waikato**, Hamilton, New Zealand
+- I build desktop apps (Rust / Tauri, Python), data tools and AI agents
+- I write about what I build, and what went wrong along the way, at [jiahao.uk](https://jiahao.uk)
+
+---
+
+### Featured Projects
+
+**[LoL Desktop Assistant](https://github.com/Giggitycountless/LOL-AI-Intelligence)**: A League of Legends desktop companion built with Tauri 2, React and Rust.
+Ranked stats, match history, post-game review, champion tier lists and LLM-powered match analysis, using read-only League Client data and running fully locally.
+Released installers (v0.3.8) and a [landing page](https://giggitycountless.github.io/LOL-AI-Intelligence/).
+
+`Rust` `Tauri` `React` `TypeScript`
+
+**AI Companion**: A vision-enabled desktop companion: face recognition, emotion detection, real-time object detection and a local vision-language model.
+
+`Python` `Computer vision` `Local LLM`
+
+**CS2 Tournament Database**: [Group project](https://github.com/Giggitycountless/CS2-DataBase) for COMPX323 Advanced Database Concepts.
+A Java Swing app over Oracle and MongoDB, switchable at runtime, with full CRUD on 11 tables, 8 analytical queries, and a B-tree vs. hash-cluster index performance study.
+
+`Java` `Oracle SQL` `MongoDB` `Docker`
 
 ---
 
@@ -21,25 +37,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,typescript,rust,react,fastapi,flask,tailwind,docker,aws,cloudflare,linux,bash,git,github,githubactions,postgres,mongodb,redis,sqlite,vscode,figma,selenium,neovim&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript,java,react,mongodb,docker,git,github&perline=10" />
   </a>
 </p>
-
----
-
-### Featured Projects
-
-**eFootball Player.bin Editor** — Reverse-engineered a 14.7MB binary, cracked 26 abilities, 62 skill bits, 6 AI styles, Form/Injury encoding. Three TKinter GUIs, one-click FF all skills.
-`Python` `Binary RE` `TKinter` `CSV`
-
-**PESDB Large-Scale Scraper** — Anti-detection scraping system defeating TLS fingerprinting and IP rate limiting. curl_cffi for Chrome impersonation, Perlin-noise throttling, global circuit breaker. Cookie injection compressed requests 97% (38K to 1.1K).
-`Python` `curl_cffi` `Anti-Detection` `BeautifulSoup`
-
-**CS2 Tournament Database** — Pro match analytics system with Oracle + MongoDB dual-database architecture covering players, coaches, maps, and full tournament data models.
-`Java` `Oracle SQL` `MongoDB`
-
-**LOL Desktop Assistant** — Tauri 2 + React + Rust desktop companion for League of Legends, integrating read-only League Client data with safe frontend boundaries.
-`Rust` `Tauri` `React` `TypeScript`
 
 ---
 
